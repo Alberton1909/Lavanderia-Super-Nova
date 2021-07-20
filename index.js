@@ -1,5 +1,5 @@
 document.getElementsByClassName("download-button")[0].onclick = function preciosPage() {
-    location.href = 'http://127.0.0.1:5500/precios.html';
+    location.href = 'https://alberton1909.github.io/Lavanderia-Super-Nova/precios.html';
    
 }
 
@@ -15,7 +15,7 @@ document.getElementsByClassName("btn btn-secondary download-button")[0].onclick 
 
 
 document.getElementById("second-button").onclick = function (){
-    location.href = 'http://127.0.0.1:5500/precios.html';
+    location.href = 'https://alberton1909.github.io/Lavanderia-Super-Nova/precios.html';
 }
 
 
