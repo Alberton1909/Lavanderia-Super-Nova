@@ -8,7 +8,7 @@ document.getElementsByClassName("download-button")[1].onclick = function contacM
 }
 
 document.getElementsByClassName("btn btn-secondary download-button")[0].onclick = function home() {
-    location.href = 'http://127.0.0.1:5500/index.html';
+    location.href = 'https://alberton1909.github.io/Lavanderia-Super-Nova/#middle-section';
 
     
 }
