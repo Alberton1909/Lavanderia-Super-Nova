@@ -177,7 +177,7 @@ img {
 }
 
 #contactMe {
-    background-image:url("/my images/background-img.png") ;
+    background-image:url("my images/background-img.png") ;
     background-color: powderblue;
     font-family:'Merriweather', serif;
     padding: 7%;
