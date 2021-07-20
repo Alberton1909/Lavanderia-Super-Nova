@@ -1,0 +1,193 @@
+body {
+    font-family: 'Merriweather', serif;
+    width: 100%;
+}
+#title {
+    text-align: left;
+    padding: 7% 15%;
+    background:linear-gradient(180deg, #003fb9 0, #22aaf7 99.81%);;
+    
+
+}
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 35px;
+    color: #fff;
+    padding: 0;
+    
+}
+
+
+h2 {
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    color: #fff;
+    
+    
+
+}
+h3 {
+    font-size: 1.35rem;
+}
+.paragraph-1{
+    margin-right: 28%;
+}
+.footer-h2 {
+    font-size: 50 px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color: unset;
+    
+}
+
+.contact-h1 {
+    font-size: 40px;
+    color: darkslateblue;
+    margin-bottom: 75px;
+
+}
+
+/*Navigation Bar*/
+.navbar-brand {
+    font-size: 1.5rem;
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+.nav-link {
+    margin-right: 30px;
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+
+
+
+.title-image {
+
+
+    width: 30%;
+    float: right;
+    position: relative;
+    bottom: 150px;
+    border-radius: 100%;
+    outline: none;
+    margin-right: 0%;
+    
+
+}
+@media(max-width:1028px){
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+    
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-item {
+    padding: 7% 15%;
+
+}
+.social-icon:hover {
+    background-color: black;
+    
+
+
+}
+.icons {
+    text-align: center;
+    margin: 54px;
+
+}
+.social-icon {
+    margin:  20px 10px;
+    color: #22aaf7;
+    align-items: center;
+
+}
+.top-page-icons:hover {
+    background-color: #fff;
+}
+.top-page-icons {
+    align-items: right;
+    color: black;
+    
+}
+img {
+    width: 195px;
+}
+.btn-group {
+    margin: auto  41% 8%;
+}
+.contact-me {
+    margin: 5% 3% 5% 0;
+    color: #fff;
+    background-color: #5a6268;
+    border-color: #545b62;   
+}
+
+
+
+.download-button {
+    margin: 5% 3% 5% 0;
+    -webkit-box-shadow: 0 4px 4px rgba(0, 42, 80, 0.2);
+    box-shadow: 0 4px 4px rgba(0, 42, 80, 0.2);
+    font-size: 16px;
+}
+.precios {
+    background-color: #5EB7B7;
+    padding: 7%;
+    width: 100%;
+}
+.table thead th {
+    font-size: 1.3rem;
+    text-decoration-line: underline;
+    vertical-align: -webkit-baseline-middle;
+    border-top: 2px solid #dee2e6;
+    border-bottom: 0px;
+
+}
+
+
+
+#middle-section {
+    
+    text-align: center;
+    padding: 4.5%;
+    position: relative;
+    z-index: 1;
+}
+
+
+#footer {
+    background:#fff;
+    padding: 7% 15%;
+
+    
+
+}
+
+#contactMe {
+    background-image:url("/my images/background-img.png") ;
+    background-color: powderblue;
+    font-family:'Merriweather', serif;
+    padding: 7%;
+    width: 100%;
+
+}
+#testimonials {
+    background-color: #22aaf7;
+    color: #fff;
+    text-align: center;
+    padding: 7% 7%;
+
+} 
