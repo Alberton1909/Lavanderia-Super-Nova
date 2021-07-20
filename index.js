@@ -4,7 +4,7 @@ document.getElementsByClassName("download-button")[0].onclick = function precios
 }
 
 document.getElementsByClassName("download-button")[1].onclick = function contacMePage() {
-    location.href = 'http://127.0.0.1:5500/contact-me.html';
+    location.href = 'https://alberton1909.github.io/Lavanderia-Super-Nova/contact-me.html';
 }
 
 document.getElementsByClassName("btn btn-secondary download-button")[0].onclick = function home() {
